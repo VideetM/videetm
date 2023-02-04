@@ -1,6 +1,7 @@
-### Hi there 👋
 
 # Hi there, my name is Videet & I'm a Data Analyst/Engineer!🧑🏻‍💻 
+> _"Real Business value can be found in excel sheets ending with report_final_3.xlxs" - Me
+> 
 <!--
 **VideetM/videetm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
