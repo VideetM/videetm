@@ -13,7 +13,9 @@
 * ✅ Attending near by vendor sponsored Data Events to catch up with the latest happenings.
 * ✅ Growing as an effective engineer in Python, SQL, Scala(soon..)
 
-
+## 📫 How to reach me 💬 
+### All socials
+* 👉🏻 Go here for everything: https://bio.link/videet
 
 
 [![Videet's GitHub stats](https://github-readme-stats.vercel.app/api?username=videetm)](https://github.com/anuraghazra/github-readme-stats) 
