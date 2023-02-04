@@ -8,7 +8,7 @@
 
 ## 🤔  What's On the Brain 🧠 
 
-* ✅ Developing scalable, resilient, & reliable code for Data Driven Analytics;
+* ✅ Developing scalable, resilient, & reliable code for Data Driven Analytics.
 * ✅ Trying new open source data tools once every two week.
 * ✅ Attending near by vendor sponsored Data Events to catch up with the latest happenings.
 * ✅ Growing as an effective engineer in Python, SQL, Scala(soon..)
