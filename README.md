@@ -1,5 +1,5 @@
 
-# Hi there, my name is Videet & I'm a Data Analyst/ Engineer!🧑🏻‍💻 
+# Hi there, my name is Videet & I'm a Data Engineer!🧑🏻‍💻 
 > "Real Business value can be found in excel sheets ending with report_final_3.xlxs" - Me 🤷🏻‍♂️
 
 ## 🧑🏻‍💻 What I Do to buy expensive Mechanical Keyboards ⌨️ 💰
