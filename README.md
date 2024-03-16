@@ -3,8 +3,8 @@
 > "Real Business value can be found in excel sheets ending with report_final_3.xlxs" - Me 🤷🏻‍♂️
 
 ## 🧑🏻‍💻 What I Do to buy expensive Mechanical Keyboards ⌨️ 💰
-* Data Analyst working on developing reports using SQL or Python by gathering requirements, collecting Data, and transforming data using DBT.
-* Jumping into Data Engineer's shoes doing some ETL and automation stuff when needed.
+* Data Engineer working on developing reports using SQL or Python by gathering requirements, collecting Data, and transforming data using DBT.
+* ETL and automation stuff when needed.
 
 ## 🤔  What's On the Brain 🧠 
 
